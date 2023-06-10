@@ -1,0 +1,9 @@
+* extensible-optimizing-coerce
+
+extensible-optimizing-coerce primarily provides a coerce function that is intended as an extensible alternative to cl:coerce.
+
+|---------+------------------------------------------------------------------------------------------------|
+| source  | file:https://github.com/digikar99/extensible-optimizing-coerce/archive/refs/tags/v0.1.0.tar.gz |
+| version | 0.1.0                                                                                          |
+| systems | extensible-optimizing-coerce                                                                   |
+|---------+------------------------------------------------------------------------------------------------|
